@@ -1,0 +1,15 @@
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\bin\Debug\net6.0\event.exe
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\bin\Debug\net6.0\event.deps.json
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\bin\Debug\net6.0\event.runtimeconfig.json
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\bin\Debug\net6.0\event.dll
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\bin\Debug\net6.0\event.pdb
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\obj\Debug\net6.0\event.csproj.AssemblyReference.cache
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\obj\Debug\net6.0\event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\obj\Debug\net6.0\event.AssemblyInfoInputs.cache
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\obj\Debug\net6.0\event.AssemblyInfo.cs
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\obj\Debug\net6.0\event.csproj.CoreCompileInputs.cache
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\obj\Debug\net6.0\event.dll
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\obj\Debug\net6.0\refint\event.dll
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\obj\Debug\net6.0\event.pdb
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\obj\Debug\net6.0\event.genruntimeconfig.cache
+C:\Users\Hephzi\Desktop\web-class\c#tutorial\event\obj\Debug\net6.0\ref\event.dll
