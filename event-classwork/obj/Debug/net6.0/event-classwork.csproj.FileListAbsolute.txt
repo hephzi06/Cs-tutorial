@@ -1,0 +1,15 @@
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\bin\Debug\net6.0\event-classwork.exe
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\bin\Debug\net6.0\event-classwork.deps.json
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\bin\Debug\net6.0\event-classwork.runtimeconfig.json
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\bin\Debug\net6.0\event-classwork.dll
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\bin\Debug\net6.0\event-classwork.pdb
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\obj\Debug\net6.0\event-classwork.csproj.AssemblyReference.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\obj\Debug\net6.0\event-classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\obj\Debug\net6.0\event-classwork.AssemblyInfoInputs.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\obj\Debug\net6.0\event-classwork.AssemblyInfo.cs
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\obj\Debug\net6.0\event-classwork.csproj.CoreCompileInputs.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\obj\Debug\net6.0\event-classwork.dll
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\obj\Debug\net6.0\refint\event-classwork.dll
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\obj\Debug\net6.0\event-classwork.pdb
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\obj\Debug\net6.0\event-classwork.genruntimeconfig.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\event-classwork\obj\Debug\net6.0\ref\event-classwork.dll
