@@ -5,6 +5,7 @@ class Program
 {
     public static void Main(string[] args)
     {
+        var titleInfo = CultureInfo.CurrentCulture.TextInfo;
         var stateCapital = new[]{
             new {name = "abia state", capital="umuahia", slogan="god's own state", governor="okezie ikpeazu"},
             new {name = "adamawa state", capital="yola", slogan="land of beauty", governor="ahmadu umaru fintiri"},
@@ -35,16 +36,25 @@ class Program
             new {name="ogun state" , capital="abeokuta", slogan="gateway state", governor="dapo abiodun"},
             new {name="ondo state" , capital="akure", slogan="sunshine state", governor="rotimi akeredolu"},
             new {name="osun state" , capital="oshogbo", slogan="land of virtue", governor="isiaka adegboyega oyetola"},
-            new {},
-            new {},
-            new {},
-            new {},
-            new {},
-            new {},
-            new {},
-            new {},
+            new {name="oyo state" , capital="ibadan", slogan="pace setter state", governor="oluseyi abiodun makinde"},
+            new {name="plateau state" , capital="jos", slogan="	home of peace and tourism", governor="simon lalong"},
+            new {name="rivers state" , capital="port harcourt", slogan="treasure base of the nation", governor="ezenwo nyesom wike"},
+            new {name="sokoto state" , capital="sokoto", slogan="seat of the caliphate	", governor="aminu waziri tambuwal"},
+            new {name="taraba state" , capital="jalingo", slogan="nature's gift to the nation", governor="darius ishaku"},
+            new {name="yobe state" , capital="damaturu", slogan="pride of the sahel", governor="mai mala buni"},
+            new {name="zamfara state" , capital="gasau", slogan="farming is our pride ", governor="bello muhammed mutawalle"},
+            // new {name="fct" , capital="asaba", slogan="	the big heart", governor="ifeanyi okowa"},
 
 
         };
+        Console.Write("Welcome to Nigeria Wiki \n Search using \" State name , Capital name , Slogan , Governor's name\" \n Enter name :  ");
+
+        string option = Console.ReadLine().ToLower();
+        for (int i = 0; i <= stateCapital.Length - 1; i++)
+        {
+                if(option  == stateCapital[i].name || option == stateCapital[i].capital || option == stateCapital[i].slogan ||option == stateCapital[i].governor ){
+                    Console.WriteLine($"{titleInfo.ToTitleCase(stateCapital[i].name)}  {titleInfo.ToTitleCase(stateCapital[i].capital)} {titleInfo.ToTitleCase(stateCapital[i].slogan)} {titleInfo.ToTitleCase(stateCapital[i].governor)} ");
+                }
+        }
     }
 }
