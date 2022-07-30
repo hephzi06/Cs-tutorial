@@ -1,0 +1,15 @@
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\bin\Debug\net6.0\class_work.exe
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\bin\Debug\net6.0\class_work.deps.json
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\bin\Debug\net6.0\class_work.runtimeconfig.json
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\bin\Debug\net6.0\class_work.dll
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\bin\Debug\net6.0\class_work.pdb
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\obj\Debug\net6.0\class_work.csproj.AssemblyReference.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\obj\Debug\net6.0\class_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\obj\Debug\net6.0\class_work.AssemblyInfoInputs.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\obj\Debug\net6.0\class_work.AssemblyInfo.cs
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\obj\Debug\net6.0\class_work.csproj.CoreCompileInputs.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\obj\Debug\net6.0\class_work.dll
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\obj\Debug\net6.0\refint\class_work.dll
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\obj\Debug\net6.0\class_work.pdb
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\obj\Debug\net6.0\class_work.genruntimeconfig.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\class_work\obj\Debug\net6.0\ref\class_work.dll

@@ -1,0 +1,15 @@
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\bin\Debug\net6.0\x06.exe
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\bin\Debug\net6.0\x06.deps.json
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\bin\Debug\net6.0\x06.runtimeconfig.json
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\bin\Debug\net6.0\x06.dll
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\bin\Debug\net6.0\x06.pdb
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\obj\Debug\net6.0\x06.csproj.AssemblyReference.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\obj\Debug\net6.0\x06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\obj\Debug\net6.0\x06.AssemblyInfoInputs.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\obj\Debug\net6.0\x06.AssemblyInfo.cs
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\obj\Debug\net6.0\x06.csproj.CoreCompileInputs.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\obj\Debug\net6.0\x06.dll
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\obj\Debug\net6.0\refint\x06.dll
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\obj\Debug\net6.0\x06.pdb
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\obj\Debug\net6.0\x06.genruntimeconfig.cache
+C:\Users\Hephzi\desktop\web-class\c#tutorial\x06\obj\Debug\net6.0\ref\x06.dll
